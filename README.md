@@ -1,2 +1,2 @@
 # Hello-World
-Jsut starting development
+Just starting development
